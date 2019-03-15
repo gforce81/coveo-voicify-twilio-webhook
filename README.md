@@ -3,7 +3,7 @@ Webhook (Google Cloud Function) for Coveo's integration with Voicify and Twilio
 
 This webhook can be deployed in as a Google Cloud Function with HTTP Trigger
 * go to https://console.cloud.google.com/functions/
-* create a new account and project if you don't already have one)
+* (create a new account and project if you don't already have one)
 Create a New Function:
 * Provide a name
 * Select ```HTTP Trigger```
