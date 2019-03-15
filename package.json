@@ -1,0 +1,15 @@
+{
+  "name": "webhook-coveo-voicify-twilio for isango",
+  "version": "1.0.0",
+  "description": "A webhook to query Coveo and send SMS via Twilio",
+  "main": "index.js",
+  "keywords": [
+    "webhook"
+  ],
+  "author": "Gauthier Robe",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "twilio": "^3.29.1"
+  }
+}
